@@ -1,0 +1,5 @@
+{
+	"omnisharp.trace.server": "information",
+	"omnisharp.debug.server": true,
+	"omnisharp.version": "latest"
+}
